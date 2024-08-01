@@ -1,2 +1,2 @@
-# C-C-Java-Programs
-C,C++,Java Programmes in this file
+# C Programs
+C Programmes in this file
